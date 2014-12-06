@@ -37,7 +37,7 @@ Or [download as ZIP](https://github.com/construct-components/water/archive/maste
 2. Import Custom Element:
 
 ```html
-<link rel="import" href="bower_components/my-repo/src/my-element.html">
+<link rel="import" href="bower_components/construct.water">
 ```
 
 3. Start using it!
