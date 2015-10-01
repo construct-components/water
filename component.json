@@ -1,0 +1,19 @@
+{
+	"name": "construct.water",
+	"version": "0.1.0",
+	"description": "Construct: Water",
+	"license": "MIT",
+	"main": "index.html",
+	"keywords": [
+		"construct", "three", "webgl", "web-components"
+	],
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	],
+	"dependencies": {
+		"construct": "*",
+		"webcomponentsjs": "^0.5.1"
+	}
+}
