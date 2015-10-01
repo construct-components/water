@@ -20,7 +20,7 @@ Apart from [Construct](http://github.com/makesites/construct) this component use
 Install the component using [Bower](http://bower.io/):
 
 ```sh
-$ bower install construct.water
+$ bower install construct-water
 ```
 
 Or [download as ZIP](https://github.com/construct-components/water/archive/master.zip).
