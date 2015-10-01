@@ -31,13 +31,13 @@ Or [download as ZIP](https://github.com/construct-components/water/archive/maste
 1. Import Web Components' polyfill:
 
 ```html
-<script src="bower_components/webcomponentsjs/webcomponents.min.js"></script>
+<script src="components/webcomponentsjs/webcomponents.min.js"></script>
 ```
 
 2. Import Custom Element:
 
 ```html
-<link rel="import" href="bower_components/construct.water">
+<link rel="import" href="components/construct.water">
 ```
 
 3. Start using it!
